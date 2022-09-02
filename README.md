@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lazzyfox
-- 👀 I’m interested in C/C++, asm coding
+- 👀 I’m interested in C/C++, asm (Intel, ARM) coding
 - 📫 How to reach me lazzyfox@gmail.com
 
 <!---
